@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @erlanggardr
-- 👀 I’m interested in ui/ux
-- 🌱 I’m currently learning (nothing)
-- 📫 How to reach me instagram
+- 👋 Hi, I’m Erlangga Rizqi Dwi Raswanto
+- 👀 I’m interested in coding, now im learning about basic coding
+- 🌱 I’m currently learning C 
+- 📫 How to reach me instagram : follow me @erlanggardr._
 
 <!---
 erlanggardr/erlanggardr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
